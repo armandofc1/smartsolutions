@@ -12076,11 +12076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\dotnet_core\\estudo\\test-net-core-mvc\\test-net-core-mvc.csproj",
+      "projectUniqueName": "D:\\projetos\\dotnet_core\\estudo\\smartsolutions\\test-net-core-mvc.csproj",
       "projectName": "test-net-core-mvc",
-      "projectPath": "D:\\projetos\\dotnet_core\\estudo\\test-net-core-mvc\\test-net-core-mvc.csproj",
+      "projectPath": "D:\\projetos\\dotnet_core\\estudo\\smartsolutions\\test-net-core-mvc.csproj",
       "packagesPath": "C:\\Users\\afcosta\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\dotnet_core\\estudo\\test-net-core-mvc\\obj\\",
+      "outputPath": "D:\\projetos\\dotnet_core\\estudo\\smartsolutions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

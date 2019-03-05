@@ -15,11 +15,6 @@ namespace test_net_core_mvc.Controllers
             return View();
         }
 
-        public IActionResult Startup()
-        {
-            return View();
-        }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
