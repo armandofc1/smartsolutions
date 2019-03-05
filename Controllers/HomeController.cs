@@ -15,7 +15,7 @@ namespace test_net_core_mvc.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Startup()
         {
             return View();
         }
